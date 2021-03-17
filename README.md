@@ -12,5 +12,5 @@ A search and sort field.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-![](./screenshot/screenshot.jpg)
+![](./screenshot/screenshot.png)
 
