@@ -1,21 +1,16 @@
-# todos
+# Product list
 
-> A todolist in VueJs
 
-## Build Setup
+An application that allows you to filter products based on if they are available.
+A search and sort field.
 
-``` bash
-# install dependencies
-npm install
+### `npm start`
 
-# serve with hot reload at localhost:8080
-npm run dev
+- Run npm install
+- Run npm start or yarn start
 
-# build for production with minification
-npm run build
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![](./screenshot/screenshot.jpg)
+
