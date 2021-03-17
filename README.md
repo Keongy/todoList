@@ -1,15 +1,14 @@
 # Product list
 
 
-An application that allows you to filter products based on if they are available.
-A search and sort field.
+A todolist with Vue.Js
 
 ### `npm start`
 
 - Run npm install
 - Run npm start or yarn start
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 
 ![](./screenshot/screenshot.png)
